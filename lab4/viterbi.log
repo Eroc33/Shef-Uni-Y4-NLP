@@ -1,0 +1,466 @@
+Guessed `London` as `O` due to no weight
+Guessed `Northampton` as `O` due to no weight
+Guessed `Durham` as `O` due to no weight
+Guessed `London` as `O` due to no weight
+Guessed `PANAMA` as `O` due to no weight
+Guessed `CITY` as `LOC` it could have been: [('CITY', 'LOC'), ('CITY', 'ORG')]
+Guessed `DETROIT` as `ORG` it could have been: [('DETROIT', 'LOC'), ('DETROIT', 'ORG')]
+Guessed `MILWAUKEE` as `ORG` due to no weight
+Guessed `TEXAS` as `ORG` due to no weight
+Guessed `NEW` as `LOC` it could have been: [('NEW', 'LOC'), ('NEW', 'ORG')]
+Guessed `YORK` as `LOC` it could have been: [('YORK', 'LOC'), ('YORK', 'ORG')]
+Guessed `CALIFORNIA` as `ORG` it could have been: [('CALIFORNIA', 'LOC'), ('CALIFORNIA', 'ORG')]
+Guessed `OAKLAND` as `ORG` due to no weight
+Guessed `SEATTLE` as `ORG` it could have been: [('SEATTLE', 'ORG'), ('SEATTLE', 'LOC')]
+Guessed `CHICAGO` as `ORG` it could have been: [('CHICAGO', 'ORG'), ('CHICAGO', 'LOC')]
+Guessed `CINCINNATI` as `ORG` due to no weight
+Guessed `MONTREAL` as `ORG` it could have been: [('MONTREAL', 'LOC'), ('MONTREAL', 'ORG')]
+Guessed `ANGELES` as `LOC` it could have been: [('ANGELES', 'ORG'), ('ANGELES', 'LOC')]
+Guessed `PHILADELPHIA` as `ORG` due to no weight
+Guessed `PITTSBURGH` as `ORG` it could have been: [('PITTSBURGH', 'LOC'), ('PITTSBURGH', 'ORG')]
+Guessed `FRANCISCO` as `LOC` it could have been: [('FRANCISCO', 'LOC'), ('FRANCISCO', 'ORG')]
+Guessed `LOUIS` as `ORG` it could have been: [('LOUIS', 'ORG'), ('LOUIS', 'LOC')]
+Guessed `Kansas` as `O` due to no weight
+Guessed `New` as `LOC` it could have been: [('New', 'ORG'), ('New', 'LOC')]
+Guessed `York` as `LOC` it could have been: [('York', 'ORG'), ('York', 'LOC')]
+Guessed `Baltimore` as `O` due to no weight
+Guessed `Chicago` as `LOC` it could have been: [('Chicago', 'LOC'), ('Chicago', 'ORG')]
+Guessed `Atlanta` as `O` due to no weight
+Guessed `Los` as `O` due to no weight
+Guessed `Angeles` as `O` due to no weight
+Guessed `Florida` as `O` due to no weight
+Guessed `PHILADELPHIA` as `ORG` due to no weight
+Guessed `MILWAUKEE` as `ORG` due to no weight
+Guessed `Wisconsin` as `O` due to no weight
+Guessed `Nolan` as `O` due to no weight
+Guessed `Henke` as `O` due to no weight
+Guessed `Bob` as `O` due to no weight
+Guessed `Estes` as `O` due to no weight
+Guessed `Bryan` as `O` due to no weight
+Guessed `Gorman` as `O` due to no weight
+Guessed `MILWAUKEE` as `ORG` due to no weight
+Guessed `Wisconsin` as `O` due to no weight
+Guessed `Berlin` as `O` due to no weight
+Guessed `MONTE` as `O` due to no weight
+Guessed `CARLO` as `O` due to no weight
+Guessed `NICE` as `O` due to no weight
+Guessed `Singer` as `O` due to no weight
+Guessed `Slater` as `O` due to no weight
+Guessed `Waugh` as `O` due to no weight
+Guessed `Muralitharan` as `O` due to no weight
+Guessed `Ponting` as `O` due to no weight
+Guessed `G.` as `O` due to no weight
+Guessed `McGrath` as `O` due to no weight
+Guessed `Sri` as `O` due to no weight
+Guessed `Lanka` as `O` due to no weight
+Guessed `A.` as `O` due to no weight
+Guessed `Gurusinha` as `O` due to no weight
+Guessed `A.de` as `O` due to no weight
+Guessed `Silva` as `O` due to no weight
+Guessed `Mahanama` as `O` due to no weight
+Guessed `McGrath` as `O` due to no weight
+Guessed `U.` as `O` due to no weight
+Guessed `Chandana` as `O` due to no weight
+Guessed `Bevan` as `O` due to no weight
+Guessed `Waugh` as `O` due to no weight
+Guessed `National` as `MISC` due to no weight
+Guessed `Bank` as `LOC` due to no weight
+Guessed `of` as `O` due to no weight
+Guessed `Poland` as `LOC` due to no weight
+Guessed `OTTAWA` as `O` due to no weight
+Guessed `Jones` as `O` due to no weight
+Guessed `Medical` as `O` due to no weight
+Guessed `ST.` as `O` due to no weight
+Guessed `LOUIS` as `ORG` it could have been: [('LOUIS', 'ORG'), ('LOUIS', 'LOC')]
+Guessed `CHICAGO` as `ORG` it could have been: [('CHICAGO', 'ORG'), ('CHICAGO', 'LOC')]
+Guessed `FARMINGTON` as `O` due to no weight
+Guessed `HILLS` as `O` due to no weight
+Guessed `Mich` as `O` due to no weight
+Guessed `N'DJAMENA` as `O` due to no weight
+Guessed `KHASAVYURT` as `O` due to no weight
+Guessed `Larisa` as `O` due to no weight
+Guessed `Sayenko` as `O` due to no weight
+Guessed `MINSK` as `O` due to no weight
+Guessed `Yuri` as `O` due to no weight
+Guessed `Kushko` as `O` due to no weight
+Guessed `TAVILDARA` as `O` due to no weight
+Guessed `Tajikistan` as `O` due to no weight
+Guessed `KHASAVYURT` as `O` due to no weight
+Guessed `Emese` as `O` due to no weight
+Guessed `Bartha` as `O` due to no weight
+Guessed `Bucharest` as `O` due to no weight
+Guessed `PARAMARIBO` as `O` due to no weight
+Guessed `Surinam` as `O` due to no weight
+Guessed `PHNOM` as `O` due to no weight
+Guessed `PENH` as `O` due to no weight
+Guessed `Mishi` as `O` due to no weight
+Guessed `Saran` as `O` due to no weight
+Guessed `Mona` as `O` due to no weight
+Guessed `Eltahawy` as `O` due to no weight
+Guessed `TRIPOLI` as `O` due to no weight
+Guessed `Pierre` as `O` due to no weight
+Guessed `Belec` as `O` due to no weight
+Guessed `Glenn` as `O` due to no weight
+Guessed `Somerville` as `O` due to no weight
+Guessed `Maggie` as `O` due to no weight
+Guessed `McNeil` as `O` due to no weight
+Guessed `CHICAGO` as `ORG` it could have been: [('CHICAGO', 'ORG'), ('CHICAGO', 'LOC')]
+Guessed `Brad` as `O` due to no weight
+Guessed `Dorfman` as `O` due to no weight
+Guessed `CHICAGO` as `ORG` it could have been: [('CHICAGO', 'ORG'), ('CHICAGO', 'LOC')]
+Guessed `Louis` as `ORG` due to no weight
+Guessed `IRVINE` as `O` due to no weight
+Guessed `Calif` as `O` due to no weight
+Guessed `South` as `MISC` it could have been: [('South', 'MISC'), ('South', 'LOC')]
+Guessed `Carolina` as `O` due to no weight
+Guessed `GRONINGEN` as `O` due to no weight
+Guessed `Bombay` as `LOC` due to no weight
+Guessed `Commodities` as `O` due to no weight
+Guessed `Name` as `O` due to no weight
+Guessed `Homegate` as `O` due to no weight
+Guessed `Hospitality` as `O` due to no weight
+Guessed `Inc` as `O` due to no weight
+Guessed `Nasdaq` as `O` due to no weight
+Guessed `DAMASCUS` as `O` due to no weight
+Guessed `Sami` as `O` due to no weight
+Guessed `Aboudi` as `O` due to no weight
+Guessed `AL-RAM` as `O` due to no weight
+Guessed `Glenn` as `O` due to no weight
+Guessed `Somerville` as `O` due to no weight
+Guessed `Wall` as `O` due to no weight
+Guessed `Street` as `O` due to no weight
+Guessed `David` as `O` due to no weight
+Guessed `Jones` as `O` due to no weight
+Guessed `THE` as `ORG` due to no weight
+Guessed `HAGUE` as `O` due to no weight
+Guessed `Rolf` as `O` due to no weight
+Guessed `Soderlind` as `O` due to no weight
+Guessed `LONGYEAR` as `O` due to no weight
+Guessed `Norway` as `O` due to no weight
+Guessed `STOCKHOLM` as `O` due to no weight
+Guessed `Stockholm` as `O` due to no weight
+Guessed `AUCKLAND` as `O` due to no weight
+Guessed `KOMPAS` as `O` due to no weight
+Guessed `JAKARTA` as `LOC` due to no weight
+Guessed `POST` as `O` due to no weight
+Guessed `MEDIA` as `O` due to no weight
+Guessed `INDONESIA` as `O` due to no weight
+Guessed `REPUBLIKA` as `O` due to no weight
+Guessed `NABLUS` as `O` due to no weight
+Guessed `LA` as `O` due to no weight
+Guessed `CORUNA` as `O` due to no weight
+Guessed `WIGAN` as `O` due to no weight
+Guessed `Bulls` as `O` due to no weight
+Guessed `HERZLIYA` as `O` due to no weight
+Guessed `Israel` as `O` due to no weight
+Guessed `ESCHEN` as `O` due to no weight
+Guessed `Liechtenstein` as `O` due to no weight
+Guessed `ESCHEN` as `O` due to no weight
+Guessed `TOFTIR` as `O` due to no weight
+Guessed `Faroe` as `O` due to no weight
+Guessed `Islands` as `O` due to no weight
+Guessed `BIRMINGHAM` as `O` due to no weight
+Guessed `LANDGRAAF` as `O` due to no weight
+Guessed `Ekimov` as `O` due to no weight
+Guessed `Ludwig` as `O` due to no weight
+Guessed `Breukink` as `O` due to no weight
+Guessed `Andersson` as `O` due to no weight
+Guessed `Skibby` as `O` due to no weight
+Guessed `BIRMINGHAM` as `O` due to no weight
+Guessed `Maynard` as `O` due to no weight
+Guessed `Irani` as `O` due to no weight
+Guessed `A.` as `O` due to no weight
+Guessed `Hollioake` as `O` due to no weight
+Guessed `D.` as `O` due to no weight
+Guessed `Gough` as `O` due to no weight
+Guessed `D.` as `O` due to no weight
+Guessed `Headley` as `O` due to no weight
+Guessed `Mushtaq` as `O` due to no weight
+Guessed `Saqlain` as `O` due to no weight
+Guessed `Mushtaq` as `O` due to no weight
+Guessed `Hollioake` as `O` due to no weight
+Guessed `Quigley` as `O` due to no weight
+Guessed `USA` as `O` due to no weight
+Guessed `Britain` as `O` due to no weight
+Guessed `Samokhvalova` as `O` due to no weight
+Guessed `Mazeikyte` as `O` due to no weight
+Guessed `Lithuania` as `O` due to no weight
+Guessed `BIRMINGHAM` as `O` due to no weight
+Guessed `ARLINGTON` as `O` due to no weight
+Guessed `Texas` as `ORG` due to no weight
+Guessed `Colin` as `O` due to no weight
+Guessed `Montgomerie` as `O` due to no weight
+Guessed `Lee` as `O` due to no weight
+Guessed `Westwood` as `O` due to no weight
+Guessed `Andrew` as `O` due to no weight
+Guessed `Coltart` as `O` due to no weight
+Guessed `Raymond` as `O` due to no weight
+Guessed `Lawrie` as `O` due to no weight
+Guessed `Mitchell` as `O` due to no weight
+Guessed `Jonathan` as `O` due to no weight
+Guessed `Lomas` as `O` due to no weight
+Guessed `Broadhurst` as `O` due to no weight
+Guessed `Harlequins` as `O` due to no weight
+Guessed `Gloucester` as `O` due to no weight
+Guessed `London` as `O` due to no weight
+Guessed `Irish` as `O` due to no weight
+Guessed `Northampton` as `O` due to no weight
+Guessed `West` as `LOC` it could have been: [('West', 'LOC'), ('West', 'ORG')]
+Guessed `Hartlepool` as `O` due to no weight
+Guessed `Orrell` as `O` due to no weight
+Guessed `Bath` as `O` due to no weight
+Guessed `Sale` as `O` due to no weight
+Guessed `Wasps` as `O` due to no weight
+Guessed `Saracens` as `O` due to no weight
+Guessed `Leicester` as `O` due to no weight
+Guessed `Welsh` as `O` due to no weight
+Guessed `Bridgend` as `O` due to no weight
+Guessed `Llanelli` as `O` due to no weight
+Guessed `Dunvant` as `O` due to no weight
+Guessed `Ebbw` as `O` due to no weight
+Guessed `Vale` as `O` due to no weight
+Guessed `Treorchy` as `O` due to no weight
+Guessed `Newbridge` as `O` due to no weight
+Guessed `Newport` as `O` due to no weight
+Guessed `Caerphilly` as `O` due to no weight
+Guessed `Cardiff` as `O` due to no weight
+Guessed `Boroughmuir` as `O` due to no weight
+Guessed `Hawick` as `O` due to no weight
+Guessed `Jed-Forest` as `O` due to no weight
+Guessed `Watsonians` as `O` due to no weight
+Guessed `Melrose` as `O` due to no weight
+Guessed `CARDIFF` as `O` due to no weight
+Guessed `BELFAST` as `O` due to no weight
+Guessed `Greenock` as `O` due to no weight
+Guessed `Morton` as `O` due to no weight
+Guessed `Falkirk` as `O` due to no weight
+Guessed `Partick` as `O` due to no weight
+Guessed `Mirren` as `O` due to no weight
+Guessed `Dundee` as `O` due to no weight
+Guessed `Airdrieonians` as `O` due to no weight
+Guessed `Ayr` as `O` due to no weight
+Guessed `Berwick` as `O` due to no weight
+Guessed `Dumbarton` as `O` due to no weight
+Guessed `Brechin` as `O` due to no weight
+Guessed `Livingston` as `O` due to no weight
+Guessed `Hamilton` as `O` due to no weight
+Guessed `Stenhousemuir` as `O` due to no weight
+Guessed `Stranraer` as `O` due to no weight
+Guessed `Albion` as `O` due to no weight
+Guessed `Cowdenbeath` as `O` due to no weight
+Guessed `Arbroath` as `O` due to no weight
+Guessed `Inverness` as `O` due to no weight
+Guessed `Thistle` as `O` due to no weight
+Guessed `Alloa` as `O` due to no weight
+Guessed `Montrose` as `O` due to no weight
+Guessed `Ross` as `O` due to no weight
+Guessed `County` as `O` due to no weight
+Guessed `Portsmouth` as `O` due to no weight
+Guessed `Crystal` as `O` due to no weight
+Guessed `Palace` as `O` due to no weight
+Guessed `Norwich` as `O` due to no weight
+Guessed `Wolverhampton` as `O` due to no weight
+Guessed `Oldham` as `O` due to no weight
+Guessed `Ipswich` as `O` due to no weight
+Guessed `Port` as `O` due to no weight
+Guessed `Vale` as `O` due to no weight
+Guessed `Oxford` as `O` due to no weight
+Guessed `Reading` as `O` due to no weight
+Guessed `Stoke` as `O` due to no weight
+Guessed `Southend` as `O` due to no weight
+Guessed `Blackpool` as `O` due to no weight
+Guessed `Wycombe` as `O` due to no weight
+Guessed `Bournemouth` as `O` due to no weight
+Guessed `Peterborough` as `O` due to no weight
+Guessed `Rovers` as `O` due to no weight
+Guessed `Stockport` as `O` due to no weight
+Guessed `Bury` as `O` due to no weight
+Guessed `Crewe` as `O` due to no weight
+Guessed `Watford` as `O` due to no weight
+Guessed `Gillingham` as `O` due to no weight
+Guessed `Chesterfield` as `O` due to no weight
+Guessed `Luton` as `O` due to no weight
+Guessed `Rotherham` as `O` due to no weight
+Guessed `Millwall` as `O` due to no weight
+Guessed `Burnley` as `O` due to no weight
+Guessed `Notts` as `O` due to no weight
+Guessed `County` as `O` due to no weight
+Guessed `York` as `LOC` it could have been: [('York', 'ORG'), ('York', 'LOC')]
+Guessed `Shrewsbury` as `O` due to no weight
+Guessed `Brentford3` as `O` due to no weight
+Guessed `Walsall` as `O` due to no weight
+Guessed `Wrexham` as `O` due to no weight
+Guessed `Brighton` as `O` due to no weight
+Guessed `Scunthorpe` as `O` due to no weight
+Guessed `Cambridge` as `O` due to no weight
+Guessed `Cardiff` as `O` due to no weight
+Guessed `Colchester` as `O` due to no weight
+Guessed `Hereford` as `O` due to no weight
+Guessed `Doncaster` as `O` due to no weight
+Guessed `Darlington` as `O` due to no weight
+Guessed `Fulham` as `O` due to no weight
+Guessed `Carlisle` as `O` due to no weight
+Guessed `Hull` as `O` due to no weight
+Guessed `Barnet` as `O` due to no weight
+Guessed `Leyton` as `O` due to no weight
+Guessed `Orient` as `O` due to no weight
+Guessed `Hartlepool` as `O` due to no weight
+Guessed `Mansfield` as `O` due to no weight
+Guessed `Rochdale` as `O` due to no weight
+Guessed `Scarborough` as `O` due to no weight
+Guessed `Northampton` as `O` due to no weight
+Guessed `Torquay` as `O` due to no weight
+Guessed `Exeter` as `O` due to no weight
+Guessed `VANCOUVER` as `O` due to no weight
+Guessed `EDMONTON` as `O` due to no weight
+Guessed `Andy` as `O` due to no weight
+Guessed `Colquhoun` as `O` due to no weight
+Guessed `Henry` as `O` due to no weight
+Guessed `Honiball` as `O` due to no weight
+Guessed `Mehrtens` as `O` due to no weight
+Guessed `NOUAKCHOTT` as `O` due to no weight
+Guessed `NOUAKCHOTT` as `O` due to no weight
+Guessed `Yugoslav` as `O` due to no weight
+Guessed `Cukaricki` as `O` due to no weight
+Guessed `Vojvodina` as `O` due to no weight
+Guessed `Buducnost` as `O` due to no weight
+Guessed `Red` as `O` due to no weight
+Guessed `Star` as `O` due to no weight
+Guessed `Partizan` as `O` due to no weight
+Guessed `Becej` as `O` due to no weight
+Guessed `Rudar` as `O` due to no weight
+Guessed `OFK` as `O` due to no weight
+Guessed `Kikinda` as `O` due to no weight
+Guessed `Sutjeska` as `O` due to no weight
+Guessed `Loznica` as `O` due to no weight
+Guessed `CHISINAU` as `O` due to no weight
+Guessed `Moldova` as `O` due to no weight
+Guessed `YEREVAN` as `O` due to no weight
+Guessed `BAKU` as `O` due to no weight
+Guessed `Vidadi` as `O` due to no weight
+Guessed `Rzayev` as `O` due to no weight
+Guessed `RIGA` as `O` due to no weight
+Guessed `MINSK` as `O` due to no weight
+Guessed `CHISINAU` as `O` due to no weight
+Guessed `MILWAUKEE` as `ORG` due to no weight
+Guessed `Wisconsin` as `O` due to no weight
+Guessed `Finn` as `O` due to no weight
+Guessed `United` as `ORG` due to no weight
+Guessed `States` as `O` due to no weight
+Guessed `Czech` as `O` due to no weight
+Guessed `Croatia` as `O` due to no weight
+Guessed `Switzerland` as `O` due to no weight
+Guessed `Slovak` as `O` due to no weight
+Guessed `Argentina` as `O` due to no weight
+Guessed `South` as `MISC` it could have been: [('South', 'MISC'), ('South', 'LOC')]
+Guessed `Korea` as `O` due to no weight
+Guessed `South` as `MISC` it could have been: [('South', 'MISC'), ('South', 'LOC')]
+Guessed `LOS` as `ORG` it could have been: [('LOS', 'ORG'), ('LOS', 'LOC')]
+Guessed `CITY` as `LOC` it could have been: [('CITY', 'LOC'), ('CITY', 'ORG')]
+Guessed `DETROIT` as `ORG` it could have been: [('DETROIT', 'LOC'), ('DETROIT', 'ORG')]
+Guessed `SEATTLE` as `ORG` it could have been: [('SEATTLE', 'ORG'), ('SEATTLE', 'LOC')]
+Guessed `MILWAUKEE` as `ORG` due to no weight
+Guessed `TEXAS` as `ORG` due to no weight
+Guessed `OAKLAND` as `ORG` due to no weight
+Guessed `NEW` as `LOC` it could have been: [('NEW', 'LOC'), ('NEW', 'ORG')]
+Guessed `YORK` as `LOC` it could have been: [('YORK', 'LOC'), ('YORK', 'ORG')]
+Guessed `CALIFORNIA` as `ORG` it could have been: [('CALIFORNIA', 'LOC'), ('CALIFORNIA', 'ORG')]
+Guessed `CHICAGO` as `ORG` it could have been: [('CHICAGO', 'ORG'), ('CHICAGO', 'LOC')]
+Guessed `PITTSBURGH` as `ORG` it could have been: [('PITTSBURGH', 'LOC'), ('PITTSBURGH', 'ORG')]
+Guessed `FRANCISCO` as `LOC` it could have been: [('FRANCISCO', 'LOC'), ('FRANCISCO', 'ORG')]
+Guessed `CINCINNATI` as `ORG` due to no weight
+Guessed `ANGELES` as `LOC` it could have been: [('ANGELES', 'ORG'), ('ANGELES', 'LOC')]
+Guessed `PHILADELPHIA` as `ORG` due to no weight
+Guessed `MONTREAL` as `ORG` it could have been: [('MONTREAL', 'LOC'), ('MONTREAL', 'ORG')]
+Guessed `LOUIS` as `ORG` it could have been: [('LOUIS', 'ORG'), ('LOUIS', 'LOC')]
+Guessed `Kansas` as `O` due to no weight
+Guessed `Chicago` as `LOC` it could have been: [('Chicago', 'LOC'), ('Chicago', 'ORG')]
+Guessed `TORONTO` as `LOC` it could have been: [('TORONTO', 'ORG'), ('TORONTO', 'LOC')]
+Guessed `New` as `LOC` it could have been: [('New', 'ORG'), ('New', 'LOC')]
+Guessed `York` as `LOC` it could have been: [('York', 'ORG'), ('York', 'LOC')]
+Guessed `Baltimore` as `O` due to no weight
+Guessed `Florida` as `O` due to no weight
+Guessed `San` as `O` due to no weight
+Guessed `Diego` as `O` due to no weight
+Guessed `Houston` as `O` due to no weight
+Guessed `Colorado` as `O` due to no weight
+Guessed `CINCINNATI` as `ORG` due to no weight
+Guessed `Finn` as `O` due to no weight
+Guessed `Pagani` as `O` due to no weight
+Guessed `Bert` as `O` due to no weight
+Guessed `Lauwers` as `O` due to no weight
+Guessed `Turkey` as `O` due to no weight
+Guessed `The` as `O` due to no weight
+Guessed `Tattersalls` as `O` due to no weight
+Guessed `Breeders` as `O` due to no weight
+Guessed `Britain` as `O` due to no weight
+Guessed `Hannon` as `O` due to no weight
+Guessed `Karlsruhe` as `O` due to no weight
+Guessed `British` as `O` due to no weight
+Guessed `STIRLING` as `O` due to no weight
+Guessed `MAHALA` as `O` due to no weight
+Guessed `Bosnia` as `O` due to no weight
+Guessed `Liutauras` as `O` due to no weight
+Guessed `Stremaitis` as `O` due to no weight
+Guessed `URUS-MARTAN` as `O` due to no weight
+Guessed `HAVANA` as `O` due to no weight
+Guessed `SANTIAGO` as `O` due to no weight
+Guessed `Deborah` as `O` due to no weight
+Guessed `Charles` as `O` due to no weight
+Guessed `RANGOON` as `O` due to no weight
+Guessed `ISTANBUL` as `O` due to no weight
+Guessed `MANAMA` as `O` due to no weight
+Guessed `LA` as `O` due to no weight
+Guessed `PRESSE` as `O` due to no weight
+Guessed `LE` as `O` due to no weight
+Guessed `TEMPS` as `O` due to no weight
+Guessed `DETROIT` as `ORG` it could have been: [('DETROIT', 'LOC'), ('DETROIT', 'ORG')]
+Guessed `ROCHESTER` as `O` due to no weight
+Guessed `N.H.` as `O` due to no weight
+Guessed `DALLAS` as `O` due to no weight
+Guessed `Adams` as `O` due to no weight
+Guessed `Vera` as `O` due to no weight
+Guessed `Haller` as `O` due to no weight
+Guessed `Dhaka` as `O` due to no weight
+phi1 f1_micro: 0.635958395245171
+Top 10 features for ORG for phi1: ('CHICAGO', 'ORG') = 52.8
+	('NEW', 'ORG') = 36.0
+	('YORK', 'ORG') = 36.0
+	('BALTIMORE', 'ORG') = 28.800000000000004
+	('TORONTO', 'ORG') = 27.0
+	('SAN', 'ORG') = 26.4
+	('BOSTON', 'ORG') = 22.4
+	('HOUSTON', 'ORG') = 22.4
+	('COLORADO', 'ORG') = 19.8
+	('ATLANTA', 'ORG') = 19.599999999999998
+Top 10 features for MISC for phi1: ('DIVISION', 'MISC') = 48.0
+	('League', 'MISC') = 32.0
+	('EASTERN', 'MISC') = 16.0
+	('LEAGUE', 'MISC') = 16.0
+	('CENTRAL', 'MISC') = 16.0
+	('WESTERN', 'MISC') = 16.0
+	('Major', 'MISC') = 15.0
+	('English', 'MISC') = 12.0
+	('Dutch', 'MISC') = 9.0
+	('South', 'MISC') = 8.4
+Top 10 features for PER for phi1: ('Peter', 'PER') = 7.0
+	('Younis', 'PER') = 6.0
+	('R.', 'PER') = 5.0
+	('Mark', 'PER') = 5.0
+	('Adrian', 'PER') = 4.0
+	('Warner', 'PER') = 4.0
+	('Corser', 'PER') = 4.0
+	('Salim', 'PER') = 4.0
+	('Malik', 'PER') = 4.0
+	('Ahmed', 'PER') = 4.0
+Top 10 features for LOC for phi1: ('LONDON', 'LOC') = 91.0
+	('NEW', 'LOC') = 67.0
+	('YORK', 'LOC') = 65.0
+	('CHICAGO', 'LOC') = 52.199999999999996
+	('England', 'LOC') = 34.0
+	('PARIS', 'LOC') = 30.0
+	('TORONTO', 'LOC') = 28.6
+	('AMSTERDAM', 'LOC') = 26.0
+	('SAN', 'LOC') = 25.199999999999996
+	('BALTIMORE', 'LOC') = 24.200000000000003
+Top 10 features for O for phi1: ("'s", 'O') = 69.6
